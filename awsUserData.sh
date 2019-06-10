@@ -6,7 +6,7 @@
 sleep 10
 
 cd /home/ubuntu
-git clone https://github.com/klwlau/
+git clone https://github.com/klwlau/awsDaskWorkerNode
 
-cd 
+cd awsDaskWorkerNode
 sudo -u ubuntu bash setup.sh
